@@ -4,4 +4,4 @@ Format: -Date | -URL of requested change | -requested change | requester | statu
 
 06/24/20 | fortices.com | update color scheme throughout | Mathieu | In progress
 
-06/24/20 | fortices.com | update hero image | Mathieu | In progress
+06/27/20 | fortices.com | update hero image | Mathieu | done
